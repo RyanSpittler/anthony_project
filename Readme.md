@@ -1,2 +1,2 @@
 What time is it?
-It is Friday!!! Yey
+It is Friday!!! Yey.
